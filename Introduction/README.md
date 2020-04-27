@@ -4,7 +4,9 @@ Basic Java Codes
   - Hello World
   - Multiply
   - Multiplication Table
+  - Print Integer
   - Even and Odd
   - Factorial 
   - Fibonacci Series
+  - Swap two No.s
   
